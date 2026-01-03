@@ -82,6 +82,17 @@ salesloft_mcp_demo/
 
 ---
 
+## TODO: Remote Hosting
+
+**Goal:** Enable non-technical users to connect without cloning/installing locally.
+
+**Plan:**
+- [ ] Host MCP server on Railway
+- [ ] Change transport from STDIO to HTTP/SSE
+- [ ] Create simple connection instructions (just add URL to Claude config)
+
+---
+
 # Claude Code Project Resources
 
 This file documents all available commands, skills, and agents accessible through your personal `.claude` folder.
